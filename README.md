@@ -1,12 +1,12 @@
 # Elasticsearch Railway Template
 
-Deploy Elasticsearch 8.17 on Railway with a single click.
+Deploy Elasticsearch on Railway with a single click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/elasticsearch-engine)
 
 ## Features
 
-- Elasticsearch 8.17.0 single-node deployment
+- Elasticsearch single-node deployment
 - X-Pack security enabled with configurable credentials
 - Persistent data storage via Railway volume
 - Anonymous read access for monitoring
