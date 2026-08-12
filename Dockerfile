@@ -1,4 +1,4 @@
-ARG ELASTICSEARCH_VERSION=8.17.0
+ARG ELASTICSEARCH_VERSION=9.4.4
 FROM elasticsearch:${ELASTICSEARCH_VERSION}
 
 COPY elasticsearch.yml /usr/share/elasticsearch/config/elasticsearch.yml
